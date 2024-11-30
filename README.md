@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Anagha3444
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning cpp
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning cpp and Andriod development
 - 😄 Pronouns: Her
 - ⚡ Fun fact: Reader
 
